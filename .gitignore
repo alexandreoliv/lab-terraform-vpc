@@ -6,7 +6,7 @@
 crash.log
 
 # Exclude sensitive files
-*.tfvars
+# *.tfvars
 *.tfvars.json
 
 # Ignore plan output files
